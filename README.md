@@ -11,16 +11,6 @@ Copy and paste the text below directly into your Antigravity chat:
 
 ---
 
-## 💎 Setup as a Gemini Gem
-Want to use Claude Code Mastery directly in Google Gemini? [Follow these instructions](./GEMINI_GEM_INSTRUCTIONS.md) to create your own custom Gem:
-
-1. Open [Gemini](https://gemini.google.com/) and click **"Gems"** -> **"New Gem"**.
-2. Name it **"Claude Code Coach 🧠"**.
-3. Copy and paste the instructions from [GEMINI_GEM_INSTRUCTIONS.md](./GEMINI_GEM_INSTRUCTIONS.md) into the instructions box.
-4. Hit **Create**! 🚀
-
----
-
 ## 💻 Manual Setup
 1. **Clone this repo:**
    ```bash
