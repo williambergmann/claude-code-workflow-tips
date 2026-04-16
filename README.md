@@ -11,14 +11,28 @@ Copy and paste the text below directly into your Antigravity chat:
 
 ---
 
+## 🛠️ Supported AI Coding Tools
+
+This tutorial works with any of the following AI-powered coding tools. Pick the one that fits your workflow:
+
+> **We recommend starting with [Antigravity](https://antigravity.ai/).** It has a free tier that includes Claude Opus access and a built-in sandbox environment, so you can follow along with this entire tutorial without paying anything or configuring your local machine. Think of it like Cursor's free tier, but with Opus built in.
+
+| Tool | How to Get It | Free Tier | Pro Plan |
+|------|---------------|-----------|----------|
+| **Antigravity** (Recommended) | [Download Antigravity](https://antigravity.ai/) | Free tier with Claude Opus + sandbox | Included |
+| **Claude Code** | Install the [Claude Code extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) in [VS Code](https://code.visualstudio.com/) or use the CLI (`npm install -g @anthropic-ai/claude-code`) | Limited | [Claude Pro / Max](https://claude.ai/upgrade) |
+| **GitHub Copilot** | Install the [GitHub Copilot extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) in [VS Code](https://code.visualstudio.com/) | Limited | [Copilot Pro](https://github.com/github-copilot/signup) |
+| **Cursor** | [Download Cursor](https://www.cursor.com/) (standalone editor) | Free tier with limited requests | [Cursor Pro](https://www.cursor.com/pricing) |
+
+---
 ## 💻 Manual Setup
 1. **Clone this repo:**
    ```bash
    git clone https://github.com/bbergmann/claude-code-workflow-tips.git
    ```
 
-2. **Open in Antigravity:**
-   Open this folder in your Antigravity IDE.
+2. **Open in your AI coding tool:**
+   Open this folder in Antigravity, Cursor, VS Code (with Copilot), or your preferred editor.
 
 3. **Start the Training:**
    Type `/learn-claude-code` in the chat to begin your session.
@@ -68,4 +82,5 @@ Copy and paste the text below directly into your Antigravity chat:
 - [r/ClaudeCode](https://reddit.com/r/ClaudeCode)
 
 ## 🛠️ Requirements
-- Antigravity IDE
+- One of: [Antigravity](https://antigravity.ai/) | [VS Code](https://code.visualstudio.com/) + [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) or [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) | [Cursor](https://www.cursor.com/)
+- Git
